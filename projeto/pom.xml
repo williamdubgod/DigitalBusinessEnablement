@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.fiap</groupId>
-	<artifactId>moneywrench</artifactId>
+	<artifactId>BancoNacional</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>moneywrench</name>
 	<description>API do projeto de controle financeiro</description>
