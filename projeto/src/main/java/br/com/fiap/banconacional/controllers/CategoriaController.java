@@ -27,6 +27,7 @@ import jakarta.validation.Valid;
 @RequestMapping("categorias")
 public class CategoriaController {
 
+
     Logger log = LoggerFactory.getLogger(getClass());
 
     List<Categoria> categorias = new ArrayList<>();
